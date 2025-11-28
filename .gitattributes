@@ -1,0 +1,13 @@
+# Tell GitHub Linguist to ignore GLAD files for language statistics
+# GLAD is a generated OpenGL loader, not part of the actual project code
+include/glad/** linguist-vendored
+include/KHR/** linguist-vendored
+src/glad.c linguist-vendored
+
+# Mark documentation files
+*.md linguist-documentation
+
+# Ensure C++ files are properly recognized
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+
