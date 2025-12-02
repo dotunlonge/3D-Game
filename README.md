@@ -169,6 +169,4 @@ Created as a demonstration of C++ game engine development skills.
 - Game loop architecture
 - Clean code principles
 
-Perfect for showcasing to potential employers interested in C++ development!
-
 # 3D-Game
